@@ -1,0 +1,3 @@
+EMAIL_HOST_USER = xxxxxx@gmail.com
+EMAIL_HOST_PASSWORD = xxxxxxxxxxx 
+#use app password as password
