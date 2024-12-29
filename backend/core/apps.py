@@ -14,7 +14,7 @@ class CoreConfig(AppConfig):
         def keep_alive():
             try:
                 # Replace with your Render app's public URL
-                app_url = "https://your-render-app-url.com"  # Replace with the actual URL
+                app_url = "https://tesing-backend-deployment.onrender.com/"  # Replace with the actual URL
                 requests.get(app_url)
                 print(f"Pinged {app_url} successfully.")
             except Exception as e:
